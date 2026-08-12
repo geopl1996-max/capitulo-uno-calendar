@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Save the Date Mariana y Gonzalo//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mariana-gonzalo-20270313@save-the-date
+DTSTAMP:20260812T040700Z
+DTSTART;TZID=America/Mexico_City:20270313T160000
+DTEND;TZID=America/Mexico_City:20270314T030000
+SUMMARY:Boda Mariana & Gonzalo 🤍
+DESCRIPTION:¡Guarda la fecha! Nos encantará compartir este día tan especial contigo. Más detalles en la invitación formal.
+BEGIN:VALARM
+TRIGGER:-P10D
+ACTION:DISPLAY
+DESCRIPTION:La boda de Mariana & Gonzalo es en 10 días 🤍
+END:VALARM
+END:VEVENT
+END:VCALENDAR
